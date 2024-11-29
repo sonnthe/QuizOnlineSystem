@@ -1,0 +1,13 @@
+.bg-light {
+    background-color: #f8f9fa ;
+}
+/* a{
+color: #ffffffa3;
+}*/
+header {
+   
+    background: linear-gradient(295deg, #1d83c0, #005eb8);
+    width: 100%;
+    overflow: hidden;
+     color: #ffffffa3;
+}
